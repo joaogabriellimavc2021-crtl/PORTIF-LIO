@@ -43,7 +43,6 @@ Desenvolvedor Python focado em criar soluções práticas que automatizam tarefa
 ## 📞 Contato
 - 📧 Email: joaogabriellimavc2021@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-gabriel-lima-dos-santos-78957526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- 💻 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- 💻 GitHub: [https://github.com/joaogabriellimavc2021-crtl]
 
----
 *Disponível para projetos freelance e contratações*
